@@ -1,0 +1,8 @@
+uiSender(dez);wCode(dez);wAddCode(dez);strText
+12345;0;0;My_Motor_FB
+12345;32769;4097;Not in position
+12345;1;0;Not activated
+12345;1;2;Wrong parameter list
+1001;0;0;My_FB_Instance_1
+1002;0;0;My_FB_Instance_2
+1003;0;0;My_FB_Instance_3
