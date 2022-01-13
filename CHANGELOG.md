@@ -2,8 +2,8 @@
 title: Changelog
 subtitle: CXMM_MessageManagement PLCnext Engineer library
 author:
- - name: Waldemar Sommer
-   email: waldemar.sommer@phoenixcontact.com
+ - name: Development ICS
+   email:
    company: BU ICS/Development/PHOENIX CONTACT GmbH
 ---
 
